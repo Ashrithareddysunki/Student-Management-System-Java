@@ -169,13 +169,14 @@ Through this project, I learned:
 
 ## 👨‍💻 Author
 
-**Fahad Abdul**
+
+**Ashritha Reddy**
 
 B.Tech – Artificial Intelligence & Machine Learning
 
-GitHub: https://github.com/Fahad-me
+GitHub: https://github.com/Ashrithareddysunki
 
-LinkedIn: https://www.linkedin.com/in/fahad-abdullah-694584253/
+## LinkedIn: https://www.linkedin.com/in/sunkireddy-ashrithareddy
 ---
 
 ## ⭐ If you like this project
